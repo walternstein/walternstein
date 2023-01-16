@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## [Monolithic Systems](./monolithic.html)&nbsp; &nbsp; [GitHub](./Github.html)&nbsp; &nbsp; [Hobbies](./hobnies.html)&nbsp; &nbsp; [Contact Us](./contactUs.html)&nbsp; &nbsp; [FAQ](./faq.html)&nbsp; &nbsp; [About](./about.html)&nbsp; &nbsp;
 
 
