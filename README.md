@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
 How is Life?
+
 :dragon_face:
 **I am the only and true Walternstein**. A passionate senior Systems Engineer, a professional IT generalist that loves learning new technologies and ways for making processes more effective and efficent.
 
