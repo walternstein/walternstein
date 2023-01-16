@@ -1,9 +1,11 @@
 ## [Monolithic Systems](./monolithic.html)&nbsp; &nbsp; [GitHub](./Github.html)&nbsp; &nbsp; [Hobbies](./hobnies.html)&nbsp; &nbsp; [Contact Us](./contactUs.html)&nbsp; &nbsp; [FAQ](./faq.html)&nbsp; &nbsp; [About](./about.html)&nbsp; &nbsp;
 
 
-How is Life?
+### Hallo Hallo Meine Freunde - Hello Hello My Friends
 
-**I am the only and true Walternstein**. A passionate senior Systems Engineer, a professional IT generalist that loves learning new technologies and ways for making processes more effective and efficent.  
+**Do you want to know more about me and what I do?** 
+
+A passionate senior Systems Engineer, a professional IT generalist that loves learning new technologies and ways for making processes more effective and efficent.  
   
 
 - 🔭 I’m currently working on transitioning from monolithic systems to DevSecOps...
