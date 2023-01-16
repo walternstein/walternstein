@@ -1,7 +1,6 @@
-[Monolithic Systems](./monolithic.html)&nbsp;&nbsp;&nbsp; [GitHub](./Github.html)&nbsp;&nbsp;&nbsp; [Hobbies](./hobnies.html)&nbsp;&nbsp;&nbsp; [Contact Us](./contactUs.html)&nbsp;&nbsp;&nbsp; [FAQ](./faq.html)&nbsp;&nbsp;&nbsp; [About](./about.html)&nbsp;&nbsp;&nbsp;
-
-
 #### Hallo Hallo Meine Freunde - Hello Hello My Friends
+
+[Monolithic Systems](./monolithic.html)&nbsp;&nbsp;&nbsp;&nbsp; [GitHub](./Github.html)&nbsp;&nbsp;&nbsp;&nbsp; [Hobbies](./hobnies.html)&nbsp;&nbsp;&nbsp;&nbsp; [Contact Us](./contactUs.html)&nbsp;&nbsp;&nbsp;&nbsp; [FAQ](./faq.html)&nbsp;&nbsp;&nbsp;&nbsp; [About](./about.html)&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Would you like to learn more about me? 
 Would you like to learn more about what I do?** 
