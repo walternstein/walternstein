@@ -1,9 +1,10 @@
-## [Monolithic Systems](./monolithic.html)&nbsp; &nbsp; [GitHub](./Github.html)&nbsp; &nbsp; [Hobbies](./hobnies.html)&nbsp; &nbsp; [Contact Us](./contactUs.html)&nbsp; &nbsp; [FAQ](./faq.html)&nbsp; &nbsp; [About](./about.html)&nbsp; &nbsp;
+##### [Monolithic Systems](./monolithic.html)&nbsp; &nbsp; [GitHub](./Github.html)&nbsp; &nbsp; [Hobbies](./hobnies.html)&nbsp; &nbsp; [Contact Us](./contactUs.html)&nbsp; &nbsp; [FAQ](./faq.html)&nbsp; &nbsp; [About](./about.html)&nbsp; &nbsp;
 
 
-### Hallo Hallo Meine Freunde - Hello Hello My Friends
+#### Hallo Hallo Meine Freunde - Hello Hello My Friends
 
-**Do you want to know more about me and what I do?** 
+**Would you like to learn more about me? 
+Would you like to learn more about what I do?** 
 
 A passionate senior Systems Engineer, a professional IT generalist that loves learning new technologies and ways for making processes more effective and efficent.  
   
