@@ -1,6 +1,6 @@
 title: Walternstein
 description: The True And Only
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-merlot
 markdown: kramdown
