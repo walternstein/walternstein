@@ -3,3 +3,4 @@ description: The True And Only
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-merlot
+markdown: kramdown
