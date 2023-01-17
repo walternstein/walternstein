@@ -1,6 +1,6 @@
-###### [Monolithic Sys.](./monolithic.md)&nbsp;&nbsp;&nbsp; [GitHub](./Github.md)&nbsp;&nbsp;&nbsp; [Hobbies](./hobbies.md)&nbsp;&nbsp;&nbsp; [Contact Us](./contactUs.md)&nbsp;&nbsp;&nbsp; [FAQ](./faq.md)&nbsp;&nbsp;&nbsp; [About](./about.md)&nbsp;&nbsp;&nbsp;
+###### [Monolithic Sys.](./monolithic.md)&nbsp;&nbsp; [GitHub](./Github.md)&nbsp;&nbsp; [Hobbies](./hobbies.md)&nbsp;&nbsp; [Contact Us](./contactUs.md)&nbsp;&nbsp; [FAQ](./faq.md)&nbsp;&nbsp; [About](./about.md)&nbsp;&nbsp;
 
-##### Hallo Hallo Meine Freunde - Hello Hello My Friends
+##### Hallo Meine Freunde - Hello My Friends
 
 **Would you like to learn more about me? 
 Would you like to learn more about what I do?** 
