@@ -7,7 +7,6 @@ Would you like to learn more about what I do?**
 
 A passionate senior Systems Engineer, a professional IT generalist that loves learning new technologies and ways for making processes more effective and efficent.  
   
-
 - 🔭 I’m currently working on transitioning from monolithic systems to DevSecOps...
                                                       
 - 🌱 I’m currently learning GitHub...
