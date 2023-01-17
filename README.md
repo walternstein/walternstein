@@ -1,11 +1,13 @@
 ###### &nbsp;[Monolithic Sys.](./MONOLITHIC.md)&nbsp; [GitHub](./GITHUB.md)&nbsp; [Hobbies](./HOBBIES.md)&nbsp; [Contact-Us](./CONTACTUS.md)&nbsp; [FAQ](./FAQ.md)&nbsp; [About](./ABOUT.md)&nbsp;
 
-##### Hallo Meine Freunde - Hello My Friends
+#### &nbsp;&nbsp;Hallo Meine Freunde&nbsp;&nbsp;&nbsp;
+
 
 **Would you like to learn more about me? 
 Would you like to learn more about what I do?** 
 
-  
+
+
 - 🔭 I’m currently working on transitioning from monolithic systems to DevSecOps...
                                                       
 - 🌱 I’m currently learning GitHub...
