@@ -1,4 +1,4 @@
-###### [Monolithic Sys.](./MONOLITHIC.md)&nbsp; [GitHub](./GITHUB.md)&nbsp; [Hobbies](./HOBBIES.md)&nbsp; [Contact Us](./CONTACTUS.md)&nbsp; [FAQ](./FAQ.md)&nbsp; [About](./ABOUT.md)&nbsp;
+###### &nbsp;[Monolithic Sys.](./MONOLITHIC.md)&nbsp; [GitHub](./GITHUB.md)&nbsp; [Hobbies](./HOBBIES.md)&nbsp; [Contact-Us](./CONTACTUS.md)&nbsp; [FAQ](./FAQ.md)&nbsp; [About](./ABOUT.md)&nbsp;
 
 ##### Hallo Meine Freunde - Hello My Friends
 
@@ -19,4 +19,4 @@ Would you like to learn more about what I do?**
 - ⚡ The mustard indicates progress!
 
 
-![Beefy Miracle](https://fedoraproject.org/w/uploads/6/60/Hotdog.gif)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Beefy Miracle](https://fedoraproject.org/w/uploads/6/60/Hotdog.gif)
