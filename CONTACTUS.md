@@ -2,6 +2,6 @@
 layout: default
 ---
 
-## CONTACT US
+## Contact Us
 
 [Back to Main](./)
