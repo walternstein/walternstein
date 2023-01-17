@@ -1,4 +1,4 @@
-###### [Monolithic Sys.](./monolithic.html)&nbsp;&nbsp;&nbsp;&nbsp; [GitHub](./Github.html)&nbsp;&nbsp;&nbsp;&nbsp; [Hobbies](./hobnies.html)&nbsp;&nbsp;&nbsp;&nbsp; [Contact Us](./contactUs.html)&nbsp;&nbsp;&nbsp;&nbsp; [FAQ](./faq.html)&nbsp;&nbsp;&nbsp;&nbsp; [About](./about.html)&nbsp;&nbsp;&nbsp;&nbsp;
+###### [Monolithic Sys.](./monolithic.md)&nbsp;&nbsp;&nbsp; [GitHub](./Github.md)&nbsp;&nbsp;&nbsp; [Hobbies](./hobbies.md)&nbsp;&nbsp;&nbsp; [Contact Us](./contactUs.md)&nbsp;&nbsp;&nbsp; [FAQ](./faq.md)&nbsp;&nbsp;&nbsp; [About](./about.md)&nbsp;&nbsp;&nbsp;
 
 ##### Hallo Hallo Meine Freunde - Hello Hello My Friends
 
