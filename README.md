@@ -7,7 +7,7 @@ Would you like to learn more about what I do?**
 
 
 
-- 🔭 I’m currently working on transitioning from monolithic systems to DevSecOps...
+- 🔭 I’m currently transitioning from monolithic systems to DevSecOps...
 
 
                                                       
