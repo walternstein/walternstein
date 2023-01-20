@@ -1,0 +1,17 @@
+---
+name: Issue Assignment
+
+On:
+    issues:
+        types: [opened]
+        
+jobs:
+    auto-assign:
+        runs-on: ubuntu-latest
+        steps:
+            - name: 'Auto Assign Issue'
+              uses: pozil/auto-assign-issue@v1.0.3
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}
+                  assignees: testesdapri
+...
