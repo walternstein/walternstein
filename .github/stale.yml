@@ -26,4 +26,4 @@ closeComment: false
 # Limit to only `issues` or `pulls`
 # only: issues
 
-# Adding information needed for the revert commit.
+# Deleting commit.
