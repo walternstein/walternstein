@@ -1,0 +1,17 @@
+---
+name: RevertCommit
+on:
+  issue_comment:
+    types: [created]
+jobs:
+  revert_commit:
+    runs-on: windows_2019
+    if: contains(GitHub.event.comment.body, '/revert'
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      - name: RevertCommit
+        uses: srt32/revert@v0.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+...
